@@ -7,7 +7,11 @@ Library used:
 <br><br>
 
 Install:
-pip install python-contrib-opencv
-pip install opencv-python
-pip install numpy
-pip install times
+- pip install python-contrib-opencv
+- pip install opencv-python
+- pip install numpy
+- pip install times
+
+Run:
+* Navigate the project folder through command prompt (cmd)
+* python main.py
