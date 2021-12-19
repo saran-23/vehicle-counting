@@ -7,7 +7,7 @@ Library used:
 <br><br>
 
 Install:
-- pip install python-contrib-opencv
+- pip install opencv-contrib-python
 - pip install opencv-python
 - pip install numpy
 - pip install times
